@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <b>BlkAPI:</b> The all-in-one Solana blcokchain API app you were looking for.<br />
+    <b>BlkAPI:</b> The all-in-one Solana blockchain API app you were looking for.<br />
     BlkAPI is a development platform offering a suite of tools via a feature-rich API, simplifying blockchain integration. It supports functionalities like NFT minting and wallet creation, with SDKs for multiple programming languages. Designed for ease of use, it requires no prior blockchain experience.
 </p>
 
